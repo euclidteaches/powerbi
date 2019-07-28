@@ -1,0 +1,53 @@
+site_name: Fundamentals of Power BI
+theme:
+   name: 'material'
+extra_css: [style.css]
+markdown_extensions:
+   - codehilite(linenums=true)
+   - admonition
+   - footnotes
+   - meta
+   - markdown_include.include
+   - toc:
+      permalink: True
+   - pymdownx.arithmatex
+   - pymdownx.betterem(smart_enable=all)
+   - pymdownx.caret
+   - pymdownx.critic
+   - pymdownx.details
+   - pymdownx.emoji:
+         emoji_generator: !!python/name:pymdownx.emoji.to_svg
+   - pymdownx.inlinehilite
+   - pymdownx.magiclink
+   - pymdownx.mark
+   - pymdownx.smartsymbols
+   - pymdownx.superfences
+   - pymdownx.tasklist(custom_checkbox=true)
+   - pymdownx.tilde
+pages:
+   - Welcome: index.md
+   - 1. Introduction:
+      - Overview: 1-Overview/overview.md
+   - 2. Course:
+      - Day 1:
+         - "1 Welcome": 2-Course/day1/01.md
+         - "2 Power BI Fundamentals": 2-Course/day1/02.md
+         - "3 Getting Data into Power Query": 2-Course/day1/03.md
+         - "4 Making Powerful Data Transformations": 2-Course/day1/04.md
+      - Day 2:
+         - "5 Modeling Data with Power Pivot": 2-Course/day2/05.md
+         - "6 Introduction to Visualizations": 2-Course/day2/06.md
+         - "7 Making Easy-to-Read Visuals": 2-Course/day2/07.md
+         - "8 Reports & Dashboards": 2-Course/day2/08.md
+      - Day 3:
+         - "9 Introduction to R in Power BI": 2-Course/day3/09.md
+         - "10 Using R to create Visuals": 2-Course/day3/10.md
+         - "11 Exploring Data & Other Helpful Features": 2-Course/day3/11.md
+         - "12 Power Add-Ins": 2-Course/day3/12.md
+      - Day 4:
+         - "13 Introduction to DAX": 2-Course/day4/13.md
+         - "14 Overview of DAX Functions": 2-Course/day4/14.md
+         - "15 Course Review": 2-Course/day4/15.md
+         - "16 Feedback & Graduation": 2-Course/day4/16.md
+   - 3. Appendix:
+      - FAQ: 3-Appendix/FAQ.md
