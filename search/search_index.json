@@ -32,237 +32,222 @@
         }, 
         {
             "location": "/2-Course/day1/01/", 
-            "text": "Course Overview\n\n\nWelcome to Class\n\n\nCourse Overview", 
+            "text": "Course Overview\n\n\nWelcome to Class \n Course Overview\n\n\nSlides\n\n\nPDF", 
             "title": "1 Welcome"
         }, 
         {
-            "location": "/2-Course/day1/01/#welcome-to-class", 
-            "text": "", 
-            "title": "Welcome to Class"
-        }, 
-        {
-            "location": "/2-Course/day1/01/#course-overview", 
-            "text": "", 
-            "title": "Course Overview"
+            "location": "/2-Course/day1/01/#welcome-to-class-course-overview", 
+            "text": "Slides  PDF", 
+            "title": "Welcome to Class &amp; Course Overview"
         }, 
         {
             "location": "/2-Course/day1/02/", 
-            "text": "Course Overview\n\n\n2a Getting Data into Power Query\n\n\n\n\nSlides available in \nPDF\n\n\n\n\n2b End-to-end Introduction to Power BI Desktop (lab)\n\n\n\n\nSlides available in \nPDF\n\n\n\n\nSample Data for Lab\n\n\n\n\nSample Data - sales.csv\n\n\nSample Data - stores.csv\n\n\nSample Data - titles.csv\n\n\n\n\nBonus: Setting up SQL Server\n\n\n\n\nSample DB\n\n\nMicrosoft SQL Server Management Studio", 
+            "text": "Course Overview\n\n\n2a Power BI Fundamentals\n\n\nSlides\n\n\nPDF\n\n\nReview\n\n\nKahoot URL\n\n\n2b Power BI Desktop\n\n\nSlides\n\n\nPDF\n\n\nSample Data\n\n\nsales.csv\n\n\nstores.csv\n\n\ntitles.csv\n\n\nBonus: SQL Server Setup\n\n\nSample DB\n\n\nMicrosoft SQL Server Management Studio", 
             "title": "2 Power BI Fundamentals"
         }, 
         {
-            "location": "/2-Course/day1/02/#2a-getting-data-into-power-query", 
-            "text": "Slides available in  PDF", 
-            "title": "2a Getting Data into Power Query"
+            "location": "/2-Course/day1/02/#2a-power-bi-fundamentals", 
+            "text": "Slides  PDF  Review  Kahoot URL", 
+            "title": "2a Power BI Fundamentals"
         }, 
         {
-            "location": "/2-Course/day1/02/#2b-end-to-end-introduction-to-power-bi-desktop-lab", 
-            "text": "Slides available in  PDF", 
-            "title": "2b End-to-end Introduction to Power BI Desktop (lab)"
-        }, 
-        {
-            "location": "/2-Course/day1/02/#sample-data-for-lab", 
-            "text": "Sample Data - sales.csv  Sample Data - stores.csv  Sample Data - titles.csv", 
-            "title": "Sample Data for Lab"
-        }, 
-        {
-            "location": "/2-Course/day1/02/#bonus-setting-up-sql-server", 
-            "text": "Sample DB  Microsoft SQL Server Management Studio", 
-            "title": "Bonus: Setting up SQL Server"
+            "location": "/2-Course/day1/02/#2b-power-bi-desktop", 
+            "text": "Slides  PDF  Sample Data  sales.csv  stores.csv  titles.csv  Bonus: SQL Server Setup  Sample DB  Microsoft SQL Server Management Studio", 
+            "title": "2b Power BI Desktop"
         }, 
         {
             "location": "/2-Course/day1/03/", 
-            "text": "Course Overview\n\n\n03a - Getting Data into Power Query\n\n\n03b - Practice Connecting to Data Sources (lab)", 
+            "text": "Course Overview\n\n\n03a - Getting Data into Power Query\n\n\nSlides\n\n\nPDF\n\n\n03b - Practice Connecting to Data Sources (lab)\n\n\nSlides\n\n\nPDF", 
             "title": "3 Getting Data into Power Query"
         }, 
         {
             "location": "/2-Course/day1/03/#03a-getting-data-into-power-query", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "03a - Getting Data into Power Query"
         }, 
         {
             "location": "/2-Course/day1/03/#03b-practice-connecting-to-data-sources-lab", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "03b - Practice Connecting to Data Sources (lab)"
         }, 
         {
             "location": "/2-Course/day1/04/", 
-            "text": "Course Overview\n\n\n04a - Making Powerful Data Transformations\n\n\n04b - Using Power Query (lab)", 
+            "text": "Course Overview\n\n\n04a - Making Powerful Data Transformations\n\n\nSlides\n\n\nPDF\n\n\n04b - Using Power Query (lab)\n\n\nSlides\n\n\nPDF", 
             "title": "4 Making Powerful Data Transformations"
         }, 
         {
             "location": "/2-Course/day1/04/#04a-making-powerful-data-transformations", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "04a - Making Powerful Data Transformations"
         }, 
         {
             "location": "/2-Course/day1/04/#04b-using-power-query-lab", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "04b - Using Power Query (lab)"
         }, 
         {
             "location": "/2-Course/day2/05/", 
-            "text": "Course Overview\n\n\n05a - Modeling Data with Power Pivot\n\n\n05b - Effective Data Modeling (lab)", 
+            "text": "Course Overview\n\n\n05a - Modeling Data with Power Pivot\n\n\nSlides\n\n\nPDF\n\n\n05b - Effective Data Modeling (lab)\n\n\nSlides\n\n\nPDF", 
             "title": "5 Modeling Data with Power Pivot"
         }, 
         {
             "location": "/2-Course/day2/05/#05a-modeling-data-with-power-pivot", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "05a - Modeling Data with Power Pivot"
         }, 
         {
             "location": "/2-Course/day2/05/#05b-effective-data-modeling-lab", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "05b - Effective Data Modeling (lab)"
         }, 
         {
             "location": "/2-Course/day2/06/", 
-            "text": "Course Overview\n\n\n06a - Introduction to Visualizations\n\n\n06b - Practicing with Simple Graphs (lab)", 
+            "text": "Course Overview\n\n\n06a - Introduction to Visualizations\n\n\nSlides\n\n\nPDF\n\n\n06b - Practicing with Simple Graphs (lab)\n\n\nSlides\n\n\nPDF", 
             "title": "6 Introduction to Visualizations"
         }, 
         {
             "location": "/2-Course/day2/06/#06a-introduction-to-visualizations", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "06a - Introduction to Visualizations"
         }, 
         {
             "location": "/2-Course/day2/06/#06b-practicing-with-simple-graphs-lab", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "06b - Practicing with Simple Graphs (lab)"
         }, 
         {
             "location": "/2-Course/day2/07/", 
-            "text": "Course Overview\n\n\n07a - Making Easy-to-Read Visuals\n\n\n07b - Making Clear Visuals (lab)", 
+            "text": "Course Overview\n\n\n07a - Making Easy-to-Read Visuals\n\n\nSlides\n\n\nPDF\n\n\n07b - Making Clear Visuals (lab)\n\n\nSlides\n\n\nPDF", 
             "title": "7 Making Easy-to-Read Visuals"
         }, 
         {
             "location": "/2-Course/day2/07/#07a-making-easy-to-read-visuals", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "07a - Making Easy-to-Read Visuals"
         }, 
         {
             "location": "/2-Course/day2/07/#07b-making-clear-visuals-lab", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "07b - Making Clear Visuals (lab)"
         }, 
         {
             "location": "/2-Course/day2/08/", 
-            "text": "Course Overview\n\n\n08a - Reports \n Dashboards\n\n\n08b - Create Your Own Dashboards \n Reports (lab)", 
+            "text": "Course Overview\n\n\n08a - Reports \n Dashboards\n\n\nSlides\n\n\nPDF\n\n\n08b - Create Your Own Dashboards \n Reports (lab)\n\n\nSlides\n\n\nPDF", 
             "title": "8 Reports & Dashboards"
         }, 
         {
             "location": "/2-Course/day2/08/#08a-reports-dashboards", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "08a - Reports &amp; Dashboards"
         }, 
         {
             "location": "/2-Course/day2/08/#08b-create-your-own-dashboards-reports-lab", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "08b - Create Your Own Dashboards &amp; Reports (lab)"
         }, 
         {
             "location": "/2-Course/day3/09/", 
-            "text": "Course Overview\n\n\n09a - Introduction to R in Power BI\n\n\n09b - Using R to create Visuals (lab)", 
+            "text": "Course Overview\n\n\n09a - Introduction to R in Power BI\n\n\nSlides\n\n\nPDF\n\n\n09b - Using R to create Visuals (lab)\n\n\nSlides\n\n\nPDF", 
             "title": "9 Introduction to R in Power BI"
         }, 
         {
             "location": "/2-Course/day3/09/#09a-introduction-to-r-in-power-bi", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "09a - Introduction to R in Power BI"
         }, 
         {
             "location": "/2-Course/day3/09/#09b-using-r-to-create-visuals-lab", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "09b - Using R to create Visuals (lab)"
         }, 
         {
             "location": "/2-Course/day3/10/", 
-            "text": "Course Overview\n\n\n10a - Power BI Web \n Mobile\n\n\n10b - Using Power BI Web and Mobile (lab)", 
+            "text": "Course Overview\n\n\n10a - Power BI Web \n Mobile\n\n\nSlides\n\n\nPDF\n\n\n10b - Using Power BI Web and Mobile (lab)\n\n\nSlides\n\n\nPDF", 
             "title": "10 Using R to create Visuals"
         }, 
         {
             "location": "/2-Course/day3/10/#10a-power-bi-web-mobile", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "10a - Power BI Web &amp; Mobile"
         }, 
         {
             "location": "/2-Course/day3/10/#10b-using-power-bi-web-and-mobile-lab", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "10b - Using Power BI Web and Mobile (lab)"
         }, 
         {
             "location": "/2-Course/day3/11/", 
-            "text": "Course Overview\n\n\n11a - Exploring Data \n Other Helpful Features\n\n\n11b - Practice Using Advanced Features (lab)", 
+            "text": "Course Overview\n\n\n11a - Exploring Data \n Other Helpful Features\n\n\nSlides\n\n\nPDF\n\n\n11b - Practice Using Advanced Features (lab)\n\n\nSlides\n\n\nPDF", 
             "title": "11 Exploring Data & Other Helpful Features"
         }, 
         {
             "location": "/2-Course/day3/11/#11a-exploring-data-other-helpful-features", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "11a - Exploring Data &amp; Other Helpful Features"
         }, 
         {
             "location": "/2-Course/day3/11/#11b-practice-using-advanced-features-lab", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "11b - Practice Using Advanced Features (lab)"
         }, 
         {
             "location": "/2-Course/day3/12/", 
-            "text": "Course Overview\n\n\n12a - Power Add-Ins\n\n\n12b - Using Excel Add-Ins (lab)", 
+            "text": "Course Overview\n\n\n12a - Power Add-Ins\n\n\nSlides\n\n\nPDF\n\n\n12b - Using Excel Add-Ins (lab)\n\n\nSlides\n\n\nPDF", 
             "title": "12 Power Add-Ins"
         }, 
         {
             "location": "/2-Course/day3/12/#12a-power-add-ins", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "12a - Power Add-Ins"
         }, 
         {
             "location": "/2-Course/day3/12/#12b-using-excel-add-ins-lab", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "12b - Using Excel Add-Ins (lab)"
         }, 
         {
             "location": "/2-Course/day4/13/", 
-            "text": "Course Overview\n\n\n13a - Introduction to DAX\n\n\n13b - Using DAX in Power BI (lab)", 
+            "text": "Course Overview\n\n\n13a - Introduction to DAX\n\n\nSlides\n\n\nPDF\n\n\n13b - Using DAX in Power BI (lab)\n\n\nSlides\n\n\nPDF", 
             "title": "13 Introduction to DAX"
         }, 
         {
             "location": "/2-Course/day4/13/#13a-introduction-to-dax", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "13a - Introduction to DAX"
         }, 
         {
             "location": "/2-Course/day4/13/#13b-using-dax-in-power-bi-lab", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "13b - Using DAX in Power BI (lab)"
         }, 
         {
             "location": "/2-Course/day4/14/", 
-            "text": "Course Overview\n\n\n14a - Overview of DAX Functions\n\n\n14b - Practice Using DAX (lab)", 
+            "text": "Course Overview\n\n\n14a - Overview of DAX Functions\n\n\nSlides\n\n\nPDF\n\n\n14b - Practice Using DAX (lab)\n\n\nSlides\n\n\nPDF", 
             "title": "14 Overview of DAX Functions"
         }, 
         {
             "location": "/2-Course/day4/14/#14a-overview-of-dax-functions", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "14a - Overview of DAX Functions"
         }, 
         {
             "location": "/2-Course/day4/14/#14b-practice-using-dax-lab", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "14b - Practice Using DAX (lab)"
         }, 
         {
             "location": "/2-Course/day4/15/", 
-            "text": "Course Overview\n\n\n15a - Course Review\n\n\n15b - Student Presentations (lab)", 
+            "text": "Course Overview\n\n\n15a - Course Review\n\n\nSlides\n\n\nPDF\n\n\n15b - Student Presentations (lab)\n\n\nSlides\n\n\nPDF", 
             "title": "15 Course Review"
         }, 
         {
             "location": "/2-Course/day4/15/#15a-course-review", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "15a - Course Review"
         }, 
         {
             "location": "/2-Course/day4/15/#15b-student-presentations-lab", 
-            "text": "", 
+            "text": "Slides  PDF", 
             "title": "15b - Student Presentations (lab)"
         }, 
         {
