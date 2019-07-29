@@ -1,5 +1,5 @@
 # Course Overview
-The Course Curriculum is basic outline and is subject to change by the instructor. More detailed outlines will be made available on the first day of class.
+The Course Curriculum is basic outline and is subject to change by the instructor.
 
 ## Syllabus
 The below chart shows a high level overview of the course topics covered each day of the class.
