@@ -29,22 +29,22 @@ pages:
    - 1. Introduction:
       - Overview: 1-Overview/overview.md
    - 2. Course:
-      - Day 1:
+      - Monday:
          - "1 Welcome": 2-Course/day1/01.md
          - "2 Power BI Fundamentals": 2-Course/day1/02.md
          - "3 Getting Data into Power Query": 2-Course/day1/03.md
          - "4 Making Powerful Data Transformations": 2-Course/day1/04.md
-      - Day 2:
+      - Tuesday:
          - "5 Modeling Data with Power Pivot": 2-Course/day2/05.md
          - "6 Introduction to Visualizations": 2-Course/day2/06.md
          - "7 Making Easy-to-Read Visuals": 2-Course/day2/07.md
          - "8 Reports & Dashboards": 2-Course/day2/08.md
-      - Day 3:
+      - Wednesday:
          - "9 Introduction to R in Power BI": 2-Course/day3/09.md
          - "10 Using R to create Visuals": 2-Course/day3/10.md
          - "11 Exploring Data & Other Helpful Features": 2-Course/day3/11.md
          - "12 Power Add-Ins": 2-Course/day3/12.md
-      - Day 4:
+      - Thursday:
          - "13 Introduction to DAX": 2-Course/day4/13.md
          - "14 Overview of DAX Functions": 2-Course/day4/14.md
          - "15 Course Review": 2-Course/day4/15.md
