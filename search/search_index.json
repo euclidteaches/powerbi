@@ -72,7 +72,7 @@
         }, 
         {
             "location": "/2-Course/day1/04/", 
-            "text": "Course Overview\n\n\n04a - Making Powerful Data Transformations\n\n\nSlides\n\n\nPDF\n\n\n04b - Using Power Query (lab)\n\n\nSlides\n\n\nPDF", 
+            "text": "Course Overview\n\n\n04a - Making Powerful Data Transformations\n\n\nSlides\n\n\nPDF\n\n\n04b - Using Power Query (lab)\n\n\nSlides\n\n\nPDF\n\n\nData Sources\n\nBox Office Sales: \nhttp://www.boxofficemojo.com/alltime/world/\n\nIMDB Top Ratings: \nhttp://www.imdb.com/chart/top", 
             "title": "4 Making Powerful Data Transformations"
         }, 
         {
@@ -82,7 +82,7 @@
         }, 
         {
             "location": "/2-Course/day1/04/#04b-using-power-query-lab", 
-            "text": "Slides  PDF", 
+            "text": "Slides  PDF  Data Sources \nBox Office Sales:  http://www.boxofficemojo.com/alltime/world/ \nIMDB Top Ratings:  http://www.imdb.com/chart/top", 
             "title": "04b - Using Power Query (lab)"
         }, 
         {
