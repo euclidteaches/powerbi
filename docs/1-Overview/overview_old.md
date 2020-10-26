@@ -16,4 +16,4 @@ The below chart shows a high level overview of the course topics covered each da
 | 2:45 PM - 4:15 PM | [Making Powerful Data Transformations](../2-Course/day1/04)<br><br>[Using Power Query (lab)](../2-Course/day1/04) | [Reports & Dashboards](../2-Course/day2/08)<br><br>[Create Your Own Dashboards & Reports](../2-Course/day2/08) | [Power Add-Ins](../2-Course/day3/12)<br><br>[Using Excel Add-Ins (lab)]/../2-Course/day3/12) | [Feedback & Graduation](../2-Course/day4/16) |
 | 4:15 PM - 4:30 PM | Review | Review | Review | |
 
-*Available in* [PDF](files/00 - Class Schedule.pdf)
+*Available in* [PDF](../files/00 - Class Schedule.pdf)
