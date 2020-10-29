@@ -1,10 +1,13 @@
 site_name: Fundamentals of Power BI
+site_url: https://darthyody.github.io/powerbi/
 theme:
-   name: 'readthedocs'
+   name: null
+   custom_dir: 'cinder'
 extra_css: [style.css]
 markdown_extensions:
    # - codehilite(linenums=true)
    - admonition
+   - attr_list
    - footnotes
    - meta
    - markdown_include.include
@@ -14,15 +17,15 @@ markdown_extensions:
    # - pymdownx.betterem(smart_enable=all)
    # - pymdownx.caret
    # - pymdownx.critic
-   # - pymdownx.details
-   # - pymdownx.emoji:
-   #       emoji_generator: !!python/name:pymdownx.emoji.to_svg
+   - pymdownx.details
+   - pymdownx.emoji:
+         emoji_generator: !!python/name:pymdownx.emoji.to_svg
    # - pymdownx.inlinehilite
    # - pymdownx.magiclink
    # - pymdownx.markdown_include
    # - pymdownx.mark
-   # - pymdownx.smartsymbols
-   # - pymdownx.superfences
+   - pymdownx.smartsymbols
+   - pymdownx.superfences
    # - pymdownx.tasklist(custom_checkbox=true)
    # - pymdownx.tilde
 plugins:
@@ -36,7 +39,7 @@ nav:
          - "1 Welcome": 2-Course/day1/01.md
          - "2 Power BI Fundamentals": 2-Course/day1/02.md
          - "3 Getting Data into Power Query": 2-Course/day1/03.md
-         - "4 Making Powerful Data Transformations": 2-Course/day1/04.md
+         - "4 Making Powerful Data Transformations": 2-Course/day2/04.md
       - Tuesday:
          - "5 Modeling Data with Power Pivot": 2-Course/day2/05.md
          - "6 Introduction to Visualizations": 2-Course/day2/06.md
