@@ -1,79 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://darthyody.github.io/powerbi/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <lastmod>2020-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://darthyody.github.io/powerbi/1-Overview/overview/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <lastmod>2020-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://darthyody.github.io/powerbi/2-Course/day1/01/</loc>
-     <lastmod>2020-10-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://darthyody.github.io/powerbi/2-Course/day1/02/</loc>
-     <lastmod>2020-10-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://darthyody.github.io/powerbi/2-Course/day1/03/</loc>
-     <lastmod>2020-10-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://darthyody.github.io/powerbi/2-Course/day2/04/</loc>
-     <lastmod>2020-10-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://darthyody.github.io/powerbi/2-Course/day2/05/</loc>
-     <lastmod>2020-10-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://darthyody.github.io/powerbi/2-Course/day2/06/</loc>
-     <lastmod>2020-10-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://darthyody.github.io/powerbi/2-Course/day2/07/</loc>
-     <lastmod>2020-10-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://darthyody.github.io/powerbi/2-Course/day2/08/</loc>
-     <lastmod>2020-10-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://darthyody.github.io/powerbi/2-Course/day3/09/</loc>
-     <lastmod>2020-10-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://darthyody.github.io/powerbi/2-Course/day3/10/</loc>
-     <lastmod>2020-10-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://darthyody.github.io/powerbi/2-Course/day3/11/</loc>
-     <lastmod>2020-10-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://darthyody.github.io/powerbi/2-Course/day3/12/</loc>
-     <lastmod>2020-10-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://darthyody.github.io/powerbi/2-Course/day4/13/</loc>
-     <lastmod>2020-10-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://darthyody.github.io/powerbi/2-Course/day4/14/</loc>
-     <lastmod>2020-10-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://darthyody.github.io/powerbi/2-Course/day4/15/</loc>
-     <lastmod>2020-10-29</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://darthyody.github.io/powerbi/2-Course/day4/16/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <loc>https://darthyody.github.io/powerbi/1-Overview/table-of-contents/</loc>
+     <lastmod>2020-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://darthyody.github.io/powerbi/3-Appendix/FAQ/</loc>
-     <lastmod>2020-10-29</lastmod>
+     <lastmod>2020-11-02</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
