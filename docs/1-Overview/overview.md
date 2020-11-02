@@ -4,16 +4,16 @@ The Course Curriculum has been specifically designed for the student to attain f
 ## Syllabus
 The detailed schedule below outlines the hand-crafted modules we will consider each day.
 
-|         | Monday | Tuesday | Wednesday | Thursday |
+|         | Monday<br>Parts 1 & 2 | Tuesday<br>Part 3 | Wednesday<br>Part 4 | Thursday<br>Part 5 |
 |---------|--------|---------|-----------|----------|
-| 9:00 AM - 9:20 AM | [Welcome](../../2-Course/day1/01) | Preview | Preview | Preview |
-| 9:20 AM - 10:20 AM | [Course Overview](../../2-Course/day1/01) | [Modeling Data with Power Pivot](../../2-Course/day2/05)<br><br>[Effective Data Modeling (lab)](../../2-Course/day2/05) | [Introduction to R in Power BI](../../2-Course/day3/09)<br><br>[Using R to create Visuals (lab)](../../2-Course/day3/09) | [Introduction to DAX](../../2-Course/day4/13)<br><br>[Using DAX in Power BI (lab)](../../2-Course/day4/13) |
-| 10:20 AM - 10:40 AM | Break | Break | Break | Break |
-| 10:40 AM - 12:00 PM | [Introduction to Power BI: History & Overview](../../2-Course/day1/02)<br><br>[End-to-end Introduction to Power BI Desktop (lab)](../../2-Course/day1/02) | [Introduction to Visualizations](../../2-Course/day2/06)<br><br>[Practicing with Simple Graphs (lab)](../../2-Course/day2/06) | [Power BI Web & Mobile](../../2-Course/day3/10)<br><br>[Using Power BI Web and Mobile (lab)](../../2-Course/day3/10) | [Overview of DAX Functions](../../2-Course/day4/14)<br><br>[Practice Using DAX (lab)](../../2-Course/day4/14) | 
+| 9:00 AM - 9:15 AM | [Welcome & Course Overview](../../2-Course/01) | Preview | Preview | Preview |
+| 9:15 AM - 10:30 AM | [Introduction to Power BI: History & Overview](../../2-Course/02)<br>[Lab: End-to-end Introduction to Power BI Desktop](../../2-Course/02)  | [Making Powerful Data Transformations](../../2-Course/04)<br>[Lab: Using Power Query](../../2-Course/04) | [Overview of DAX Functions](../../2-Course/14) | [Reports & Dashboards](../../2-Course/08)<br>[Lab: Create Your Own Dashboards & Reports](../../2-Course/08) |
+| 10:30 AM - 10:45 AM | Break | Break | Break | Break |
+| 10:45 AM - 12:00 PM | [Power BI Web & Mobile](../../2-Course/10)<br>[Lab: Using Power BI Web and Mobile](../../2-Course/10) | [Introduction to R in Power BI](../../2-Course/09)<br>[Lab: Using R to create Visuals](../../2-Course/09) | [Lab: Practice Using DAX](../../2-Course/14)  | [Power Add-Ins](../../2-Course/12)<br>[Lab: Using Excel Add-Ins](../../2-Course/12) |
 | 12:00 PM - 1:00 PM | Lunch | Lunch | Lunch | Lunch |
-| 1:00 PM - 2:20 PM | [Getting Data into Power Query](../../2-Course/day1/03)<br><br>[Practice Connecting to Data Sources (lab)](../../2-Course/day1/03) | [Making Easy-to-Read Visuals](../../2-Course/day2/07)<br><br>[Making Clear Visuals (lab)](../../2-Course/day2/07) | [Exploring Data & Other Helpful Features](../../2-Course/day3/11)<br><br>[Practice Using Advanced Features (lab)](../../2-Course/day3/11) | [Course Review](../../2-Course/day4/15)<br><br>[Student Presentations (lab)](../../2-Course/day4/15) |
-| 2:20 PM - 2:40 PM | Break | Break | Break | Break |
-| 2:40 PM - 3:50 PM | [Making Powerful Data Transformations](../../2-Course/day2/04)<br><br>[Using Power Query (lab)](../../2-Course/day2/04) | [Reports & Dashboards](../../2-Course/day2/08)<br><br>[Create Your Own Dashboards & Reports](../../2-Course/day2/08) | [Power Add-Ins](../../2-Course/day3/12)<br><br>[Using Excel Add-Ins (lab)](/../2-Course/day3/12) | [Feedback & Graduation](../../2-Course/day4/16) |
-| 3:50 PM - 4:00 PM | Review | Review | Review | |
+| 1:00 PM - 2:30 PM | [Getting Data into Power Query](../../2-Course/03)  <br>[Lab: Practice Connecting to Data Sources](../../2-Course/03) | [Introduction to DAX](../../2-Course/13) | [Introduction to Visualizations](../../2-Course/06)<br>[Lab: Practicing with Simple Graphs](../../2-Course/06) | [Exploring Data & Other Helpful Features](../../2-Course/11)<br>[Lab: Practice Using Advanced Features](../../2-Course/11) |
+| 2:30 PM - 2:45 PM | Break | Break | Break | Break |
+| 2:45 PM - 3:50 PM | [Modeling Data with Power Pivot](../../2-Course/05) | [Lab: Using DAX in Power BI](../../2-Course/13) | [Making Easy-to-Read Visuals](../../2-Course/07)<br>[Lab: Making Clear Visuals](../../2-Course/07) | [Feedback & Final Comments](../../2-Course/day4/16) |
+| 3:50 PM - 4:00 PM | Review | Review | Review | Review |
 
 *Available in* [PDF](../files/00 - Class Schedule.pdf)
