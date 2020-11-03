@@ -3,4 +3,4 @@
    <embed src="{{ meta.pdf_url }}"></embed>
 </object>
 
-[Download PDF]({{ meta.pdf_url }})
+<!-- [Download PDF]({{ meta.pdf_url }}) -->

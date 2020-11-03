@@ -35,15 +35,16 @@ nav:
    - 1. Introduction:
       - Overview: 1-Overview/overview.md
       - Table of Contents: 1-Overview/table-of-contents.md
+      - Course Outline: 1-Overview/course-outline.md
    # - 2. Topics:
    #    - "Getting Started": 2-Topics/01-Getting-Started/01-What-is-Power-BI.md
    - 2. Course: 
       - "Part 1: Course Introduction":
          - "Welcome & Course Overview": 2-Course/01
          - "Introduction to Power BI: History & Overview": 2-Course/02
-         - "Lab: End-to-end Introduction to Power BI Desktop": 2-Course/02
+         - "Lab: End-to-end Introduction to Power BI Desktop": 2-Course/02lab
          - "Power BI Web & Mobile": 2-Course/10
-         - "Lab: Using Power BI Web and Mobile": 2-Course/10
+         - "Lab: Using Power BI Web and Mobile": 2-Course/10lab
       - "Part 2: Getting Data into Power BI":
          - "Getting Data into Power Query": 2-Course/03
          - "Lab: Practice Connecting to Data Sources": 2-Course/03
@@ -65,11 +66,11 @@ nav:
          - "Lab: Making Clear Visuals": 2-Course/07
          - "Reports & Dashboards": 2-Course/08
          - "Lab: Create Your Own Dashboards & Reports": 2-Course/08
-      -  "Part 5: Advanced Topics":
+      -  "Part 5: Additional Topics":
          - "Power Add-Ins": 2-Course/12
          - "Lab: Using Excel Add-Ins": 2-Course/12
          - "Exploring Data & Other Helpful Features": 2-Course/11
-         - "Lab: Practice Using Advanced Features": 2-Course/11
+         - "Lab: Practice Using Additional Features": 2-Course/11
    # - 2. Course:
    #    - Monday:
    #       - "1 Welcome": 2-Course/01.md
