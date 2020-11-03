@@ -7,11 +7,11 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     
     
-    <link rel="canonical" href="https://darthyody.github.io/powerbi/2-Course/09/">
+    <link rel="canonical" href="https://darthyody.github.io/powerbi/2-Course/02lab/">
     <link rel="shortcut icon" href="../../img/favicon.ico">
 
     
-    <title>09 - Fundamentals of Power BI</title>
+    <title>Get started with Power BI (lab) - Fundamentals of Power BI</title>
     
 
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.12.0/css/all.css">
@@ -124,7 +124,7 @@
         
             
 <li >
-    <a href="../02lab">Lab: End-to-end Introduction to Power BI Desktop</a>
+    <a href=".">Lab: End-to-end Introduction to Power BI Desktop</a>
 </li>
 
         
@@ -196,13 +196,13 @@
         
             
 <li >
-    <a href=".">Introduction to R in Power BI</a>
+    <a href="../09">Introduction to R in Power BI</a>
 </li>
 
         
             
 <li >
-    <a href=".">Lab: Using R to create Visuals</a>
+    <a href="../09">Lab: Using R to create Visuals</a>
 </li>
 
         
@@ -344,34 +344,90 @@
         
         <div class="col-md-3"><div class="bs-sidebar hidden-print affix well" role="complementary">
     <ul class="nav bs-sidenav">
-        <li class="first-level active"><a href="#introduction-to-r-in-power-bi">Introduction to R in Power BI</a></li>
-        <li class="first-level "><a href="#using-r-to-create-visuals-lab">Using R to create Visuals (lab)</a></li>
+        <li class="first-level active"><a href="#get-started-with-power-bi-lab">Get started with Power BI (lab)</a></li>
+            <li class="second-level"><a href="#goal">Goal</a></li>
+                
+            <li class="second-level"><a href="#setup">Setup</a></li>
+                
+            <li class="second-level"><a href="#steps">Steps</a></li>
+                
+                <li class="third-level"><a href="#connect-to-retirement-data">Connect to Retirement data</a></li>
+                <li class="third-level"><a href="#connect-to-state-data">Connect to State data</a></li>
+                <li class="third-level"><a href="#merge-queries">Merge Queries</a></li>
+                <li class="third-level"><a href="#build-reports">Build Reports</a></li>
+                <li class="third-level"><a href="#style-the-report">Style the Report</a></li>
+            <li class="second-level"><a href="#resources">Resources</a></li>
+                
     </ul>
 </div></div>
         <div class="col-md-9" role="main">
 
-<p><a href="../../1-Overview/overview/">&#x2190; Course Overview</a></p>
-<h2 id="introduction-to-r-in-power-bi">Introduction to R in Power BI<a class="headerlink" href="#introduction-to-r-in-power-bi" title="Permanent link">&para;</a></h2>
-<p><strong>Lessons</strong></p>
-<object data="https://powerbicourse.s3.amazonaws.com/09a+-+Introduction+to+R+in+Power+BI.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="https://powerbicourse.s3.amazonaws.com/09a+-+Introduction+to+R+in+Power+BI.pdf"></embed>
-</object>
-
-<!-- [Download PDF](https://powerbicourse.s3.amazonaws.com/09a+-+Introduction+to+R+in+Power+BI.pdf) -->
-
-<h2 id="using-r-to-create-visuals-lab">Using R to create Visuals (lab)<a class="headerlink" href="#using-r-to-create-visuals-lab" title="Permanent link">&para;</a></h2>
-<p><strong>Lessons</strong></p>
-<object data="https://powerbicourse.s3.amazonaws.com/09b+-+Using+R+to+Create+Visuals.pdf" type="application/pdf" width="700px" height="700px">
-   <embed src="https://powerbicourse.s3.amazonaws.com/09b+-+Using+R+to+Create+Visuals.pdf"></embed>
-</object>
-
-<!-- [Download PDF](https://powerbicourse.s3.amazonaws.com/09b+-+Using+R+to+Create+Visuals.pdf) -->
-
-<!-- 
-Lab: Create Power BI visuals using R
-
-https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-r-visuals
- --></div>
+<h1 id="get-started-with-power-bi-lab">Get started with Power BI (lab)<a class="headerlink" href="#get-started-with-power-bi-lab" title="Permanent link">&para;</a></h1>
+<p><img alt="" src="https://agilethought.com/wp-content/uploads/2018/10/power-BI-768x432.png" /></p>
+<h2 id="goal">Goal<a class="headerlink" href="#goal" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Get a feel for Power BI Desktop</li>
+</ul>
+<h2 id="setup">Setup<a class="headerlink" href="#setup" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Download and install <a href="https://powerbi.microsoft.com/desktop">Power BI Desktop</a></li>
+</ul>
+<h2 id="steps">Steps<a class="headerlink" href="#steps" title="Permanent link">&para;</a></h2>
+<h3 id="connect-to-retirement-data">Connect to Retirement data<a class="headerlink" href="#connect-to-retirement-data" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Connect to the sample retirement data. (<a href="https://www.bankrate.com/retirement/best-and-worst-states-for-retirement/">URL</a>)</li>
+<li>Remove bad rows and rename columns</li>
+<li>Change the number columns to the Whole Number data type.</li>
+<li>Sort by Overall Rank, then Sort by Weather ascending, Remove 10 Bottom Rows.</li>
+<li>Remove <em>Crime, Culture, and Wellness</em> columns</li>
+<li>Rename table title to "Best states for sunglass sales"</li>
+</ol>
+<h3 id="connect-to-state-data">Connect to State data<a class="headerlink" href="#connect-to-state-data" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Connect to sample state abbreviations. (<a href="https://en.wikipedia.org/wiki/List_of_U.S._state_abbreviations">URL</a>)</li>
+<li>Remove all columns except:</li>
+<li>Name and status of region</li>
+<li>Name and status of region2</li>
+<li>ANSI</li>
+<li>Filter <em>Name and status of region2</em> column by <em>State</em></li>
+<li>Rename columns</li>
+<li>Rename table to State codes</li>
+</ol>
+<h3 id="merge-queries">Merge Queries<a class="headerlink" href="#merge-queries" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Select Merge Queries option</li>
+<li>Choose State columns</li>
+<li>Expand to include Abbreviation column</li>
+</ol>
+<h3 id="build-reports">Build Reports<a class="headerlink" href="#build-reports" title="Permanent link">&para;</a></h3>
+<h4 id="map-view">Map View<a class="headerlink" href="#map-view" title="Permanent link">&para;</a></h4>
+<ol>
+<li>Add State column</li>
+<li>Add Filter for Top 10 by weather</li>
+<li>Rename Visual Title</li>
+</ol>
+<h4 id="bar-chart">Bar Chart<a class="headerlink" href="#bar-chart" title="Permanent link">&para;</a></h4>
+<ol>
+<li>Add State and Weather column</li>
+<li>Sort Ascending</li>
+<li>Add Filter for Top 10 by weather</li>
+</ol>
+<h3 id="style-the-report">Style the Report<a class="headerlink" href="#style-the-report" title="Permanent link">&para;</a></h3>
+<ol>
+<li>Add several additional visuals</li>
+<li>Add a background image</li>
+<li>Add a title</li>
+</ol>
+<h2 id="resources">Resources<a class="headerlink" href="#resources" title="Permanent link">&para;</a></h2>
+<ul>
+<li>Sample Retirement Data Table (<a href="https://www.bankrate.com/retirement/best-and-worst-states-for-retirement/">URL</a>)</li>
+<li>State Abbreviations (<a href="https://en.wikipedia.org/wiki/List_of_U.S._state_abbreviations">URL</a>)</li>
+<li><a href="https://docs.microsoft.com/en-us/power-bi/fundamentals/desktop-getting-started">Step-by-step Instructions</a></li>
+<li><a href="https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-shape-and-combine-data">Shape and combine data</a></li>
+<li><a href="https://docs.microsoft.com/en-us/power-bi/connect-data/desktop-connect-to-data">Connect to data</a></li>
+<li><a href="https://docs.microsoft.com/en-us/power-bi/create-reports/desktop-report-view">Report View</a></li>
+<li><a href="https://docs.microsoft.com/en-us/power-bi/collaborate-share/service-share-dashboards">Share a dashboard</a></li>
+</ul></div>
         
         
     </div>

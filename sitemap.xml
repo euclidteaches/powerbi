@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><url>
      <loc>https://darthyody.github.io/powerbi/</loc>
-     <lastmod>2020-11-02</lastmod>
+     <lastmod>2020-11-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://darthyody.github.io/powerbi/1-Overview/overview/</loc>
-     <lastmod>2020-11-02</lastmod>
+     <lastmod>2020-11-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://darthyody.github.io/powerbi/1-Overview/table-of-contents/</loc>
-     <lastmod>2020-11-02</lastmod>
+     <lastmod>2020-11-03</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://darthyody.github.io/powerbi/1-Overview/course-outline/</loc>
+     <lastmod>2020-11-03</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://darthyody.github.io/powerbi/3-Appendix/FAQ/</loc>
-     <lastmod>2020-11-02</lastmod>
+     <lastmod>2020-11-03</lastmod>
      <changefreq>daily</changefreq>
     </url>
 </urlset>
